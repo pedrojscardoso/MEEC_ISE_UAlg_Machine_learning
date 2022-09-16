@@ -63,30 +63,20 @@ to active the jupyter extensions
 
 ## Syllabus
 
+
 1. Python Programming
-1. Databases (BD)
-    - Relational BDs: Relational model, entity modeling and normalization; SQL programming (CRUD operations); Access to DBMSs
-    - Non-relational DBs: Introduction to NoSQL; The MongoDB example: documents and collections, CRUD operations, and indexing. MapReduce concept, replication and
-fragmentation; MongoDB accesses
-1. Web frameworks
-    - Use of models and routing
-    - RESTful configuration and authentication
-    - HTTP paging, caching, and security implementation
-4. Data analysis
-    - Data visualization
-    - Descriptive Statistics
-    - Data sampling
-    - Data Analysis Tools
-5. Machine Learning Algorithms
-    - Supervised versus unsupervised learning
-    - Selection and evaluation of models
-    - Linear Regression
-    - Logistic regression
-    - Support vector machines
-    - Detection of anomalies
-    - Recommendation systems
-    - Clustering
-    - Neural networks
+	1. Procedural programming
+	1. Object-oriented programming
+	1. Parallelism ( multi-threaded and multi-process)
+1. Machine learning algorithms
+	1. Supervised versus unsupervised learning
+	1. Selection and evaluation of models
+	1. Linear regression	
+	1. Logistic regression
+	1. Vector machines support
+	1. Clustering
+	1. Decision trees and forests
+	1. Neuronal networks
     
 ## Clone this repository
 
