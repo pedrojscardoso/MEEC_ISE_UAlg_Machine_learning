@@ -135,3 +135,15 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /.idea/inspectionProfiles/profiles_settings.xml
+.idea/copilot.data.migration.agent.xml
+.idea/copilot.data.migration.ask.xml
+.idea/copilot.data.migration.edit.xml
+.idea/copilot.data.migration.ask2agent.xml
+3-ML/.DS_Store
+3-ML/model.png
+3-ML/data/.DS_Store
+3-ML/data/digit-recognizer/.DS_Store
+1-python/.DS_Store
+.DS_Store
+3-ML/digits-svc.joblib
+3-ML/digits-svc.pickle
